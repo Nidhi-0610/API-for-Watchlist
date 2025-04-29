@@ -1,0 +1,6 @@
+@StockWatchlistAPI_HostAddress = http://localhost:5161
+
+GET {{StockWatchlistAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zAqmpnU+toOHtIKp56xjFwJKxxogp9F/W20E42yABX0=",
+  "Source": "StockWatchlistAPI",
+  "BasePath": "_content/StockWatchlistAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
